@@ -1,0 +1,14 @@
+http://www.yt.fully.pk/watch/X6rPdRZzgjg         OpenCV Tutorial: Real-Time Object Tracking Without Colour
+
+ http://www.yt.fully.pk/watch/6j-Wy9j0TCs               Raspberry Pi 2 and OpenCV 3 Tutorial Part 1
+
+http://www.instructables.com/id/Face-detection-and-tracking-with-Arduino-and-OpenC/   
+
+http://www.neuroproductions.be/   des bon projet 
+
+http://letsmakerobots.com/node/43837  un bon project avec open cv (avec arduino)
+
+http://www.instructables.com/id/Arduino-RC-Car-with-FPV-Camera/  un bon project 
+
+
+https://www.circuitsathome.com/camera-control/arduino-based-controller-for-canon-eos-cameras                  imporatnnnnnnnnnnnnnt1

@@ -1,0 +1,50 @@
+diffrent types of robot ; 
+
+http://makezine.com/projects/arduroller-self-balancing-robot/  
+http://www.bajdi.com/building-a-self-balancing-bot/         avec prog
+http://www.x-firm.com/?page_id=284  
+https://www.youtube.com/watch?v=poWP-RpPa3g             József Fekete avec commande evec atmega328
+http://www.x-firm.com/?cat=6 
+https://www.youtube.com/watch?v=s5m-DTn8jyw 
+ http://www.ablab.in/line-follower-robot-with-avr-atmega32-microcontroller-using-analog-ir-sensor/       Line Follower Robot with ATmega32 
+https://www.youtube.com/watch?v=oK_kQzm8P8M      un bon exemple de robot avec tout mes composant mais sans code                                                                                                                                                                                using Analog IR Sensor
+
+
+
+
+
+http://forum.arduino.cc/index.php?topic=8871.45    forum sur le site d'arduino sur les pendules inversé 
+
+
+
+
+http://letsmakerobots.com/view/node/list/robot?page=2    the best site ever for robot 
+http://www.fut-electronics.com/technical-tutorials/   un bon tutrial (en trouve tout)
+
+
+
+
+
+
+
+http://www.pobot.org/-Capteurs-de-position-.html   tout les choses qui ont une relations avec la robotique (capteurs ......)
+
+
+ http://42bots.com/tutorials/arduino-uno-and-the-invensense-mpu-6050-6dof-imu/   un bon site sur l'arduino et ses composants 
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+ 
+

@@ -1,0 +1,13 @@
+https://www.element14.com/community/docs/DOC-76210/l/trying-to-use-a-camera-module-to-show-footage-to-a-lcd-tft-screen
+
+
+https://www.google.com/imgres?imgurl=http://fritzing.org/media/fritzing-repo/projects/o/ov7670-no-ram-arduino-uno/images/ov7670%252520connections.jpg&imgrefurl=http://fritzing.org/projects/ov7670-no-ram-arduino-uno&h=1389&w=2262&tbnid=uqRPq_MvRXBCUM:&docid=2fTRu7NOrAEWAM&ei=uZL7VsLzD8GwasrTqJAP&tbm=isch&ved=0ahUKEwiCtM2cg-jLAhVBmBoKHcopCvIQMwgfKAMwAw
+
+http://forum.arduino.cc/index.php/topic,159557.0.html
+
+www.instructables.com/id/OV7670-Without-FIFO-Very-Simple-Framecapture-With-/
+
+http://www.arducam.com/camera-modules/0-3mp-ov7670/
+
+http://embeddedprogrammer.blogspot.com.br/2012/07/hacking-ov7670-camera-module-sccb-cheat.html
+

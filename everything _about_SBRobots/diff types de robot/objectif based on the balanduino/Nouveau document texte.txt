@@ -1,0 +1,6 @@
+https://www.youtube.com/watch?v=N28C_JqVhGU     la video de robot (un  trés bon video)
+
+https://github.com/TKJElectronics/BalancingRobotArduino/blob/master/BalancingRobotArduino.ino#L448-L454     the robot code 
+
+http://blog.tkjelectronics.dk/2012/03/the-balancing-robot/           the blog 
+

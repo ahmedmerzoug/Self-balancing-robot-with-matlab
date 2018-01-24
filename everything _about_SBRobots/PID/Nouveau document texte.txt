@@ -1,0 +1,12 @@
+http://www.ferdinandpiette.com/blog/2011/08/implementer-un-pid-sans-faire-de-calculs/                trés important 
+
+http://autogire-rc.over-blog.com/article-carte-electronique-logiciel-pour-simulateur-dynamique-121477293.html     pid  trés intérésant 
+
+http://nantrobot.fr/control-theory/   pid 
+
+http://brettbeauregard.com/blog/2011/04/improving-the-beginners-pid-introduction/          The Beginner’s PID (un trés bon site sur le PID) avec les codes 
+
+http://blog.3sigma.fr/arduino/tutoriel-arduino-asservissement-en-vitesse-dun-moteur-a-courant-continu/
+
+
+

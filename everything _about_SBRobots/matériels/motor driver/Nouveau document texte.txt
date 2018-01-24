@@ -1,0 +1,2 @@
+https://bayesianadventures.wordpress.com/2013/10/20/arduino-with-l293n-motor-driver/    
+http://tronixstuff.com/2014/11/25/tutorial-l298n-dual-motor-controller-modules-and-arduino/

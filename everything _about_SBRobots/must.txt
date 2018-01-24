@@ -1,0 +1,44 @@
+
+
+
+
+http://www.instructables.com/id/Arduino-Self-Balance-Controller-using-DIGITAL-IMU-/                    segway 
+
+https://github.com/TKJElectronics/BalancingRobotArduino/blob/master/BalancingRobotArduino.ino#L448-L454   trייייייייs important ( code complet d'un robot) 
+
+
+  
+
+https://www.element14.com/community/groups/arduino              element14community  un bon site sur les robots 
+
+
+
+
+
+
+
+https://www.youtube.com/watch?v=HS3fPfnke8o&feature=youtu.be    a regarder 
+
+ 
+
+
+
+
+
+http://blog.tkjelectronics.dk/2012/03/the-balancing-robot/ 
+
+http://www.totofweb.net/robots-projet-8.html#4          robot build with pic 
+
+
+
+
+
+
+
+
+
+
+
+
+
+

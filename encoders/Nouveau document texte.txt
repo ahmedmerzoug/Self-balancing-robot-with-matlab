@@ -1,0 +1,11 @@
+http://thedenneys.org/pub/robot/encoders/
+http://johntrimble.com/blog/2013/07/11/building-an-incremental-rotary-encoder/
+https://amtek.wordpress.com/2011/01/18/encoder-tut/
+https://botscene.net/2012/10/18/make-a-low-cost-absolute-encoder/
+http://www.societyofrobots.com/sensors_encoder.shtml
+http://letsmakerobots.com/node/12293
+http://seattlerobotics.org/encoder/200001/simplemotor.htm
+http://www.seattlerobotics.org/encoder/200112/srs.htm
+
+
+http://letsmakerobots.com/node/42160      important

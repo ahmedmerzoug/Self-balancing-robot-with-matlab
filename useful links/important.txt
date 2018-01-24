@@ -1,0 +1,13 @@
+
+https://www.youtube.com/watch?v=GjjQi64PUTM       matlab with mpu6050
+http://www.kerrywong.com/2012/03/08/a-self-balancing-robot-i/
+http://sebastiannilsson.com/en/?s=realtime+plotter.  
+http://wired.chillibasket.com/2015/03/pid-controller/
+http://www.instructables.com/id/How-to-make-a-voice-control-direction-control-remo/
+http://robocv.blogspot.com/2012/01/serial-communication-between-arduino.html
+http://robocv.blogspot.com/2013/03/making-two-wheeled-self-balancing-robot.html
+https://fr.scribd.com/doc/229489206/Thesis-Self-Balancing-Robot
+https://people.ece.cornell.edu/land/courses/ece4760/FinalProjects/f2015/dc686_nn233_hz263/final_project_webpage_v2/dc686_nn233_hz263/
+
+
+

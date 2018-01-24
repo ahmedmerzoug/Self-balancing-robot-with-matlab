@@ -1,0 +1,17 @@
+http://jeromeabel.net/ressources/xbee-arduino 
+
+http://lookmanowire.blogspot.com/2011_06_01_archive.html 
+
+http://www.instructables.com/id/Arduino-RC-Car-with-FPV-Camera/   un bon projet avec l' xbee 
+
+https://www.youtube.com/watch?v=mPx3TjzvE9U   tuturial 
+
+https://learn.adafruit.com/xbee-radios/ 
+
+http://www.exploringarduino.com/content/ch11/                                                    the best 
+
+http://tronixstuff.com/2010/08/06/moving-forward-with-arduino-chapter-14-xbee-introduction/
+
+http://www.digi.com/support/productdetail?pid=4549                     importantttttttttttttttttttttttttttt 2
+
+https://alselectro.wordpress.com/2014/09/07/xbee-s2digital-sampling-with-api-frame-data/

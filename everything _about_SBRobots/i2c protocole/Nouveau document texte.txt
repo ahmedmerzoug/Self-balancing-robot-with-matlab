@@ -1,0 +1,5 @@
+https://www.youtube.com/watch?v=UJlgND6sWHk 
+https://learn.sparkfun.com/tutorials/i2c 
+http://www.robot-electronics.co.uk/i2c-tutorial 
+
+http://tronixstuff.com/2010/10/20/tutorial-arduino-and-the-i2c-bus/

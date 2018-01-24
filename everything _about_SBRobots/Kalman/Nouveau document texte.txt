@@ -1,0 +1,22 @@
+http://blog.tkjelectronics.dk/2012/09/a-practical-approach-to-kalman-filter-and-how-to-implement-it/ 
+
+http://diydrones.com/profiles/blog/show?id=705844%3ABlogPost%3A23188 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+http://www.nxhlh.com/stag/complementary-filter-arduino/                             complementary-filter

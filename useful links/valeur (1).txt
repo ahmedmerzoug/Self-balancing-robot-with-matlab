@@ -1,0 +1,17 @@
+g=9.8 m/s^2
+W=0.18m    3orth 
+H=0.16m  touuul 
+mp=0.57kg  masse de pendule 
+Jp=7.3*10^-3    moment d'inertie de pendule 
+mw=40gr   masse de la roue 
+rw=3.4cm      rayon de la roue 
+Jw=6.98*10^-3      moment d'inertie de la roue
+m batterie=150gr 
+
+
+
+www.instructables.com/id/DIY-Lithium-ion-Battery-Charger/
+
+
+
+https://www.facebook.com/linda.ch.5473

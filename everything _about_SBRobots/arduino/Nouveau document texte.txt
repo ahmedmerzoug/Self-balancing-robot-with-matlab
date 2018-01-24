@@ -1,0 +1,5 @@
+http://www.ladyada.net/learn/arduino/  
+
+http://arduino.stackexchange.com/questions?page=5&sort=newest                            question and answer about arduino  
+
+http://f-leb.developpez.com/tutoriels/arduino/univers_arduino/part1/
