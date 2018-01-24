@@ -7,7 +7,7 @@ Control systems were developed using mathematical model-based design and simulat
 
 ![screenshot_14](https://user-images.githubusercontent.com/31218608/35348560-4c5d2142-0130-11e8-90cc-62a84735d001.png)
 
-final review of the Self balancing robot 
+final review of the Self balancing robot :
 
 ![20160602_162228](https://user-images.githubusercontent.com/31218608/35348654-90da7090-0130-11e8-9c2e-7d304f613af1.jpg)
 
